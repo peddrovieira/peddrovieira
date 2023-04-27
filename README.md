@@ -3,22 +3,10 @@
   
 
 
+<div align="center">
+<a href="https://github.com/peddrovieira">
+<img src="https://github-readme-stats.vercel.app/api?username=peddrovieira&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" alt="Peddro's github stats" />
+<a href="https://github.com/peddrovieira/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=peddrovieira&layout=compact&theme=midnight-purple&langs_count=6" />
+</div>
 
-<a href="https://github.com/peddrovieira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peddrovieira&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Peddro's github stats" /></a> 
-<a href="https://github.com/peddrovieira/github-readme-stats"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peddrovieira&layout=compact&theme=midnight-purple" /></a>
-  
-
-<!--
-**peddrovieira/peddrovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
